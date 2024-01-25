@@ -592,7 +592,7 @@ const Chat = () => {
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
-                                <h1 className={styles.chatEmptyStateTitle}>Testing chatting</h1>
+                                <h1 className={styles.chatEmptyStateTitle}>Testing chatting for Jason</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>This is an experiment to test the chatbot.</h2>
                             </Stack>
                         ) : (
